@@ -3,4 +3,6 @@ class UsersController < ApplicationController
     @tracked_stocks = current_user.stocks
   end
 
+end
+
   
