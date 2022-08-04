@@ -25,3 +25,18 @@ h1{
 .bg{
     background-color: rgb(197, 197, 111);
 }
+
+.nav-color{
+    background-color: cyan;
+}
+
+.bg-color{
+    color:blue;
+}
+p{
+    color:slateblue;
+}
+
+footer{
+    background-color:sienna;
+}
