@@ -39,4 +39,8 @@ p{
 
 footer{
     background-color:sienna;
+   
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
 }
