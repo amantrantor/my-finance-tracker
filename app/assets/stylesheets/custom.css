@@ -1,0 +1,27 @@
+
+.search-area{
+    padding-top: 30px;
+}
+
+.no-right-padding{
+    padding-right: 0 !important;
+}
+
+.no-left-padding{
+    padding-left: 0 !important;
+}
+.user-name{
+    margin-top: 3.5%;
+    padding-right: 5px;
+}
+body{
+    background: rgb(255, 127, 127);
+}
+
+h1{
+    color: rgb(23, 70, 201);
+}
+
+.bg{
+    background-color: rgb(197, 197, 111);
+}
